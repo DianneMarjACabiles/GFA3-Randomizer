@@ -1,0 +1,26 @@
+body{
+    background-color: #8D021F;
+    color: white; 
+    font-family: Franklin Gothic;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+
+.title{
+    color: white; 
+    font-family: Franklin Gothic;
+    text-align: center;
+    font-size: 40px;
+    border-style: solid;
+    border-color: white;
+}
+
+.smalldesc{
+    color: black; 
+    font-family: Franklin Gothic;
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+}
